@@ -1,0 +1,5 @@
+.mainDiv{
+  @media (max-width: 768px) {
+    width: fit-content;
+  }
+}
